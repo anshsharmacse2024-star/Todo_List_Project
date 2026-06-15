@@ -1,11 +1,7 @@
-# To-Do List Project
+# Todo_List_Project
 
 ## Description
-A simple Python To-Do List application that allows users to:
-
-- Add tasks
-- View tasks
-- Exit application
+A simple Python To-Do List application.
 
 ## Concepts Used
 - Lists
@@ -17,3 +13,7 @@ A simple Python To-Do List application that allows users to:
 
 ```bash
 python todo.py
+```
+
+## Author
+Ansh Sharma
